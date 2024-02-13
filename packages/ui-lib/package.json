@@ -1,5 +1,5 @@
 {
-  "name": "ui-lib",
+  "name": "ui-lib-snabbdom",
   "version": "1.1.0",
   "description": "A UI library based on Snabbdom",
   "author": "Vasudeo Gaichor <vasudeogaichor@gmail.com>",
@@ -27,5 +27,5 @@
   "dependencies": {
     "snabbdom": "3.6.2"
   },
-  "gitHead": "8714659300c453f39df5849a6c4554ac9dad9db9"
+  "gitHead": "bbbd278c682553d4e4fdf241f0ed28055a19f8fb"
 }
