@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/vasudeogaichor/analystt-ai-assignment.git"
   },
+  "dependencies": {
+    "ui-lib": "file:../ui-lib"
+  },
   "scripts": {
     "tsc": "tsc",
     "test": "node ./__tests__/create-example-ui-app.test.js"
