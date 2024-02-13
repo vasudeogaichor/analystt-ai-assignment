@@ -18,6 +18,7 @@
     "url": "git+https://github.com/vasudeogaichor/analystt-ai-assignment.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "node ./__tests__/ui-lib.test.js"
   },
   "bugs": {
