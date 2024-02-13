@@ -1,0 +1,26 @@
+{
+  "name": "ui-lib",
+  "version": "0.0.0",
+  "description": "A UI library based on Snabbdom",
+  "author": "Vasudeo Gaichor <vasudeogaichor@gmail.com>",
+  "homepage": "https://github.com/vasudeogaichor/analystt-ai-assignment#readme",
+  "license": "ISC",
+  "main": "lib/ui-lib.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasudeogaichor/analystt-ai-assignment.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ui-lib.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/vasudeogaichor/analystt-ai-assignment/issues"
+  }
+}
